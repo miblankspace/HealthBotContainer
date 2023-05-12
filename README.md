@@ -2,7 +2,7 @@
 
 Henry the Healthcare Chatbot, an AI-based solution to combat online misinformation in the healthcare field.
 
-[Pitch slides](https://drive.google.com/file/d/1zWLI23jtPEeJ4uxqntQbl5h5l8aW5qq1/view?usp=sharing)
+## [See Pitch Slides](https://drive.google.com/file/d/1zWLI23jtPEeJ4uxqntQbl5h5l8aW5qq1/view?usp=sharing)
 
 ## Health Bot Container
 
